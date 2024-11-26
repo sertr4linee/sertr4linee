@@ -1,4 +1,4 @@
-<h2> Hi, I'm apoo3301 ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Software Enginner Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
 </em></p>
 
@@ -10,12 +10,12 @@
 ```javascript
 const me = {
   pronouns: "hi" | "him",
-  age: "18",
-  languages: [Javascript, Typescript, Python, C, RUST],
+  age: "19",
+  languages: [Javascript, Typescript, Python, C, RUST, C++],
   software: [Postman, DataGrip, Visual Studio, Docker],
   other: [NodeJS, Firebase, MongoDB, .NET, MySQL, NextJS, VUE, git],
   operating_systems: ["Windows", "linux: {
-                                    "debian", "fedora"
+                                    "debian"
   }],
 }
 ```
