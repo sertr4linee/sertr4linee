@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @sertr4linee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2> Hi, I'm apoo3301 ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Software Enginner Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 
+</em></p>
 
-<!---
-sertr4linee/sertr4linee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub Witchbl4des?](https://img.shields.io/github/followers/apoolww?label=follow&style=social)]()
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const me = {
+  pronouns: "hi" | "him",
+  age: "18",
+  languages: [Javascript, Typescript, Python, C, RUST],
+  software: [Postman, DataGrip, Visual Studio, Docker],
+  other: [NodeJS, Firebase, MongoDB, .NET, MySQL, NextJS, VUE, git],
+  operating_systems: ["Windows", "linux: {
+                                    "debian", "fedora"
+  }],
+}
+```
+<br/><br/>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> my github stats..  
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoolww&show_icons=true)](https://github.com/apoolww)
+
+from @south, 444, ...
