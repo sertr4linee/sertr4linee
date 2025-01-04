@@ -20,7 +20,5 @@ const me = {
 }
 ```
 <br/><br/>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> my github stats..  
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoolww&show_icons=true)](https://github.com/apoolww)
-
-from @south, 444, ...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+from @south
